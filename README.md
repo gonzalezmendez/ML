@@ -1,15 +1,28 @@
-# 🤖 Machine Learning (ML)
-Bienvenido a la sección especializada en Aprendizaje Automático. Esta rama está dedicada a la exploración, procesamiento y modelado de datos para generar predicciones y automatizar la toma de decisiones.
-
-## [NLP – Natural Language Processing](https://github.com/gonzalezmendez/NLP)
-
-En este ejercicio de NLP se generan embeddings de texto para capturar relaciones semánticas y se aplica PCA para reducir la dimensionalidad, facilitando la comparación y visualización de los textos.
-
-## Librerias usadas
-`pip install sentence-transformers`
-`pip install scikit-learn`
-`pip install pandas`
-`pip install numpy`
-`pip install plotly`
-
-
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><b>Machine Learning Supervisado</b></th>
+      <th width="50%" align="center"><b>Aprendizaje No Supervisado (Clustering)</b></th>
+      <th width="50%" align="center"><b>Modelos de Árboles (Ensembles)</b></th>
+      <th width="50%" align="center"><b>Deep Learning & NLP</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/LeTuck/Tienda-de-Videojuegos">
+          <img src="https://github.com/gonzalezmendez/gonzalezmendez/blob/images/EDA%20Y%20WRANGLING.png?raw=true" width="100%">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/gonzalezmendez/ML">
+          <img src="https://github.com/LeTuck/LeTuck/blob/images/ML.png?raw=true" width="100%">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">Limpieza de datos, Visualización, Hipótesis</td>
+      <td align="center" valign="top">Supervisado, No Supervisado, Árboles de Decisión, Redes Neuronales, Series Temporales</td>
+    </tr>
+  </tbody>
+</table>
