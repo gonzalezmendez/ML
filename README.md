@@ -1,10 +1,10 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><b>Machine Learning Supervisado</b></th>
-      <th width="50%" align="center"><b>Aprendizaje No Supervisado (Clustering)</b></th>
-      <th width="50%" align="center"><b>Modelos de Árboles (Ensembles)</b></th>
-      <th width="50%" align="center"><b>Deep Learning & NLP</b></th>
+      <th width="25%" align="center"><b>Machine Learning Supervisado</b></th>
+      <th width="25%" align="center"><b>Aprendizaje No Supervisado (Clustering)</b></th>
+      <th width="25%" align="center"><b>Modelos de Árboles (Ensembles)</b></th>
+      <th width="25%" align="center"><b>Deep Learning & NLP</b></th>
     </tr>
   </thead>
   <tbody>
